@@ -20,7 +20,7 @@ export default function TestA() {
                     style={{ width: 24, height: 24, }}
                 />
             </FacebookShareButton>
-            테스트 페이지 A
+            테스트 페이지 AA
         </>
     );
 }
